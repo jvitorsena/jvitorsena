@@ -5,7 +5,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-  <div>
+  <!--<div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
@@ -19,7 +19,7 @@
           </a>
        </p>
      <br>
-  </div> 
+  </div> -->
 
 <!--
 **jvitorsena/jvitorsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
